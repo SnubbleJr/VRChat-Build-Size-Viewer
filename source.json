@@ -1,0 +1,19 @@
+{
+    "name":"VRChat-Build-Size-Viewer",
+    "id":"com.vrchat.example-listing",
+    "url":"https://SnubbleJr.github.io/VRChat-Build-Size-Viewer/index.json",
+    "author":{
+        "email":"SnubbleJr@gmail.com",
+        "name":"SnubbleJr",
+        "url":"https://hello.vrchat.com"
+    },
+    "description":"Example listing of VRChat packages",
+    "infoLink":{
+        "url":"https://github.com/SnubbleJr/VRChat-Build-Size-Viewer/",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "SnubbleJr/VRChat-Build-Size-Viewer"
+    ]
+}
